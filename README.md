@@ -12,9 +12,7 @@
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- BIOS Interface
 
 <h2>Operating Systems Used </h2>
 
@@ -23,9 +21,9 @@
 <h2>List of Steps </h2>
 
 - Disssassembly
-- Cleaning
-- Maintenance & Troubleshooting
-- Resassembly
+- Cleaning & Maintenance
+- Resassembly 
+- Test Boot & Troubleshooting
 
 <h2> Important Steps</h2>
 
@@ -33,7 +31,8 @@
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-#1 Dissassbley Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+#1 Dissassbley Power off and unplug the PC. Ground yourself to avoid static electricity damage. Carefully disassemble the PC, documenting each step: Remove the side panel (s). Take out individual components (GPU, RAM, storage, CPU, PSU, tans, etc.). Disconnect cables, noting their connections). Remove the motherboard from the case.Organize components neatly and identity them. 
+
 </p>
 <br />
 
@@ -41,7 +40,7 @@
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-#2 Cleaning Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+#2 Cleaning & Maintanance Inspect parts for dust, wear, or damage. Clean the case and components using compressed air, microfiber cloths, and isopropyl alcohol (for thermal paste or sticky residue). Replace or reapply thermal paste on the CPU if needed. Check for loose screws, broken cables, or worn parts (e.g., fan blades or capacitors). 
 </p>
 <br />
 
@@ -49,7 +48,7 @@
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-#3 Maintaneance & Troubleshooting Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+#3 Reassembly  Then you reinstall each component, ensuring proper seating and cable connections.Manage cables for airflow and connections 
 </p>
 <br />
 
@@ -57,7 +56,7 @@
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-#4 Reassembly Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+#4 Test Boot & Troubleshooting Test any failing components or note down potential upgrades. Test boot the system:  Verify all components are recognized in BIOS/UEFI. Check temperatures, fan speeds, and system stability. Install or update the operating system if needed.
 </p>
 <br />
 
