@@ -14,9 +14,14 @@
 
 - BIOS Interface
 
-<h2>Operating Systems Used </h2>
+<h2> PC Used </h2>
 
-- Windows 10</b> (21H2)
+- Refurbuished Dell Oplieplex 7040
+
+<h2> Materials </h2>
+
+- Gloves
+- Phil's Screwdriver
 
 <h2>List of Steps </h2>
 
