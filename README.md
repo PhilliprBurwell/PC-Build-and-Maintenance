@@ -1,9 +1,11 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+
+![image](https://github.com/user-attachments/assets/20913e34-0ed2-4908-a50b-8cdd68089e35)
+
 </p>
 
 <h1>PC - Build-and-Maintenance </h1>
- <br /> The purpose of this tutorial is to learn internal componets, how they fit together and how to handle hardware safely. Another purpose is to learn to maintain and extend the life of hardware while troubleshooting potential issues. Also learning how to correctly asemble a functional PC. <br />
+ <br /> The purpose of this tutorial is to learn internal componets, how they fit together and how to handle hardware safely. Another purpose is to learn to maintain and extend the life of hardware while troubleshooting potential issues. Also learning how to correctly asemble a functional PC correctly. <br />
 
 
 <h2>Video Demonstration</h2>
@@ -20,9 +22,12 @@
 
 <h2> Materials </h2>
 
+- Dell Opliplex 7040
 - Gloves
 - Phil's Screwdriver
 - Flat head Screwdriver
+- Paper Towels
+- Compressed Air
 
 <h2>List of Steps </h2>
 
@@ -34,12 +39,16 @@
 <h2> Important Steps</h2>
 
 <p>
+(Image #1)
  
 ![image](https://github.com/user-attachments/assets/27d9805d-e1da-46b5-8dcf-d94a6baf0cda)
+(Image #2)
 
 ![image](https://github.com/user-attachments/assets/7c914dd0-675a-4c1a-901e-e1b8f5adb814)
+(Image #3)
 
 ![image](https://github.com/user-attachments/assets/5be43888-fef8-4214-8fc9-78afce4ce455)
+(Image #4)
 
 ![image](https://github.com/user-attachments/assets/9b9b7584-3ca5-4be6-8849-c6d907819c66)
 
