@@ -34,8 +34,14 @@
 <h2> Important Steps</h2>
 
 <p>
+ 
+![image](https://github.com/user-attachments/assets/27d9805d-e1da-46b5-8dcf-d94a6baf0cda)
 
+![image](https://github.com/user-attachments/assets/7c914dd0-675a-4c1a-901e-e1b8f5adb814)
 
+![image](https://github.com/user-attachments/assets/5be43888-fef8-4214-8fc9-78afce4ce455)
+
+![image](https://github.com/user-attachments/assets/9b9b7584-3ca5-4be6-8849-c6d907819c66)
 
 
 </p>
