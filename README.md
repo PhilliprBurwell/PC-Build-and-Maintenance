@@ -61,15 +61,39 @@
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+(Image #1)
+
+![image](https://github.com/user-attachments/assets/90453a9a-b765-4c60-846a-2c474a12eee5)
+(Image #2)
+
+![image](https://github.com/user-attachments/assets/c8c0f5cb-923f-45cc-8a00-7ece3cb2edad)
+
+
 </p>
 <p>
-#2 Cleaning & Maintanance Inspect parts for dust, wear, damage or worn parts  Take the cpu fan and wipe the frount of with a paper towel with isopropyl alcohol on it. Also wipe the cpu with that paper towel aswell.  Then put thermal paste on the CPU if needed. The fan had dust build up do i used compressed air and wiped it clean with a paper towel. Then clean the mother board with a q tip using isopropyl alcohol to get into the fine spaces. 
+#2 Cleaning & Maintanance Inspect parts for dust, wear, damage or worn parts. Take the outside case and wipe it down with a paper towel. After that you wipe it again with isopropyl alcohol on it. Take the cpu fan and wipe the frount of with a paper towel and then a second time with isopropyl alcohol on it. Also wipe the cpu with that paper towel aswell.  Then put thermal paste on the CPU if needed. The fan had dust build up do i used compressed air and wiped it clean with a paper towel. I noticed the power suplly fan was dusty too so i used the commpressed air with some short burts. You can clean the mother board with a q tip using isopropyl alcohol to get into the fine spaces if there is dust aswell. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ (Image #1)
+ 
+![image](https://github.com/user-attachments/assets/b6dfed49-16fa-4dde-8cc6-ed26f8af0921)
+ (Image #2)
+ 
+![image](https://github.com/user-attachments/assets/0c0086cb-05a4-4269-95e8-30daabf85334)
+ (Image #3)
+ 
+![image](https://github.com/user-attachments/assets/074d84d8-ac76-4a9d-a4be-639a985a923e)
+
+(Image #4)
+
+![image](https://github.com/user-attachments/assets/bac3aa4c-223f-40bb-80cf-7099427a917e)
+
+(Image #5) 
+![image](https://github.com/user-attachments/assets/e83d4ff5-a06d-4330-9ffd-274d901bdf38)
+
+
 </p>
 <p>
 #3 Reassembly - Place the power switch in the conner of the PC. Take the motherboard and put the cpu back on it. Then you place the mother board back. Then install the 5 screws back starting from the back using your phil's screwdriver. Go to the frount and put the power switch back to the motherboard. Install the internal speaker and connect it to the motherboard. Take the cpu fan and connnect it back to the motherboard. Then screw the fan back in with the Phil's screwdriver. Then install the ram. Then start installing the power supply. Start on the back and install the screws using the phil's screwdriver. Connect the pin and clip the wires along the inside of the PC. Use your flat head to clip the last clips. Install the PC brackets and the VD card. Then install the optical drive. Connect the optical drive power calble to the motherboard. Then the hard drive cable into the motherboard. Install the hard drive cage and connect the optical drive and power cable. Take your flathead and clip the cable. Install the hard drive in and connect the power cable. Clip the cables into place. Install the front cover of the PC. Lastly install the cover panel.  
@@ -77,7 +101,11 @@
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ (Image #1)
+
+
+
 </p>
 <p>
 #4 Test Boot & Troubleshooting - We are going to update and verify all components are recognized in BIOS Firmware. Open system Information, look for the system model and the name of the firmware. Copy and paste system manufactuer and the name of the motherboard into a note pad. Also the BIOS Version/date. Go into google and copy and paste the system manufactor's website.  Observe inside inventory look at the support page for recent updates that need to be made for the motherboard. Download the recent version and save it to the desktop. Then extract the files and drag it into a USB. After that open up BIOS. Save the Bios to back up the settings just in case something fails. Then you press update BIOS and select the USB folder with the newest update. Do the intact update. Then we are going to test boot system. Go into the advanced mode we are going go to settings and check for disabled interfaces If so press enable and then go to Save & Exit. Then the computer is going to reboot the computer. To check the temperatures of the hardware you check on the right hand side if settings you can see the temperatures. To check the fan speeded you can see the 2 fan speeds on the main page. 
