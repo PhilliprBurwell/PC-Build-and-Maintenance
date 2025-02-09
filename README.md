@@ -12,7 +12,7 @@
 
 - ### [How To Dissassemble a Dell Opliplex 7040 ](https://www.youtube.com/watch?v=ivi8vUe8NVw&t=2s)
 -  ### [How To Clean a Dell Opliplex 7040 ](https://www.youtube.com/watch?v=KHPNB9mxLzM)
-- ### [How To Reassemble a Dell Opliplex 7040 ]()
+- ### [How To Reassemble a Dell Opliplex 7040 ](https://www.youtube.com/watch?v=0UEiJqqoENA)
 
 
 <h2>Environments and Technologies Used</h2>
@@ -131,7 +131,7 @@
 
 </p>
 <p>
-#4 Test Boot & Troubleshooting - We are going to update and verify all components recognized in UEFI Firmware. Open system Information, look for the system model and the name of the firmware. Copy and paste system manufacture and the name of the motherboard into a note pad. Also the BIOS Version/date. Go into google and copy and paste the system manufacture's website.  Observe inside inventory look at the support page for recent updates that need to be made for the motherboard. Download the recent version and save it to the desktop if it isn't already. Then extract the files and drag it into a USB. Then we are going to update for recent windows update. Go to settings > Update & Security. Download the missing updates and restart the computer. After that to boot into the UEFI Firmware you have to Open Settings by clicking the Start menu and selecting the gear icon. Go to Update & Security > Recovery. Under Advanced startup, click “Restart now.” The computer will reboot to a special menu. Choose Troubleshoot > Advanced options > UEFI Firmware Settings. Click UEFI firmware settings, then click Restart to change the settings in the software. We will look at settings and check for disabled interfaces. If it seems good we are going to go to POST behavior > Fastboot and press auto. Apply settings and make sure to save as customer user settings. This is to back up the settings just in case something fails. After that Press exit and the Pc will restart.
+#4 Test Boot & Troubleshooting - We are going to update and verify all components recognized in UEFI Firmware. Open system Information, look for the system model and the name of the firmware. Copy and paste system manufacture and the name of the motherboard into a note pad. Also the BIOS Version/date. Go into google and copy and paste the system manufacture's website.  Observe inside inventory look at the support page for recent updates that need to be made for the motherboard. Download the recent version and save it to the desktop if it isn't already. Then we are going to update for recent windows update. Go to settings > Update & Security. Download the missing updates and restart the computer. After that to boot into the UEFI Firmware you have to open "Settings" by clicking the Start menu and selecting the gear icon. Go to Update & Security > Recovery. Under Advanced startup, click “Restart now.” The computer will reboot to a special menu. Choose Troubleshoot > Advanced options > UEFI Firmware Settings. Click UEFI firmware settings, then click Restart to change the settings in the software. We will look at settings and check for disabled interfaces. If it seems good we are going to go to POST behavior > Fastboot and press auto. Apply settings and make sure to save as customer user settings. This is to back up the settings just in case something fails. After that press "Exit" and the Pc will restart.
 </p>
 <br />
 
