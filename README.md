@@ -14,7 +14,7 @@
 
 <h2>Environments and Technologies Used</h2>
 
-- BIOS Interface
+- UEFI Firmware
 
 <h2> PC Used </h2>
 
@@ -100,12 +100,31 @@
 <p>
 
  (Image #1)
+ 
+ ![image](https://github.com/user-attachments/assets/0142cba3-9302-4c54-8b03-c99215048aef)
+ 
+ (Image #2)
+ 
+ ![image](https://github.com/user-attachments/assets/0aebfbf4-33a4-461e-ab29-aaa330a01a2e)
+ 
+ (Image #3)
+ 
+![image](https://github.com/user-attachments/assets/55d98fae-ee6d-41d0-8c94-9560968423d0)
+
+
+ (Image #4)
+
+ ![image](https://github.com/user-attachments/assets/d00fddaf-15d2-44d3-a666-118972d567e7)
+
+
+ (Image #5)
+ ![image](https://github.com/user-attachments/assets/fd07b0aa-58e0-4a6b-b3b4-ebf3f84d3c8a)
 
 
 
 </p>
 <p>
-#4 Test Boot & Troubleshooting - We are going to update and verify all components are recognized in BIOS Firmware. Open system Information, look for the system model and the name of the firmware. Copy and paste system manufactuer and the name of the motherboard into a note pad. Also the BIOS Version/date. Go into google and copy and paste the system manufactor's website.  Observe inside inventory look at the support page for recent updates that need to be made for the motherboard. Download the recent version and save it to the desktop. Then extract the files and drag it into a USB. After that open up BIOS. Save the Bios to back up the settings just in case something fails. Then you press update BIOS and select the USB folder with the newest update. Do the intact update. Then we are going to test boot system. Go into the advanced mode we are going go to settings and check for disabled interfaces If so press enable and then go to Save & Exit. Then the computer is going to reboot the computer. To check the temperatures of the hardware you check on the right hand side if settings you can see the temperatures. To check the fan speeded you can see the 2 fan speeds on the main page. 
+#4 Test Boot & Troubleshooting - We are going to update and verify all components are recognized in UEFI Firmware. Open system Information, look for the system model and the name of the firmware. Copy and paste system manufactuer and the name of the motherboard into a note pad. Also the BIOS Version/date. Go into google and copy and paste the system manufactor's website.  Observe inside inventory look at the support page for recent updates that need to be made for the motherboard. Download the recent version and save it to the desktop if it isn't already. Then extract the files and drag it into a USB. Then we are going to update for recent windows update. Go to settings > Update & Security. Downlaod the missing updates and restart the computer. After that to boot into the UEFI Firmware you have to Open Settings by clicking the Start menu and selecting the gear icon. Go to Update & Security > Recovery. Under Advanced startup, click “Restart now.” The computer will reboot to a special menu. Choose Troubleshoot > Advanced options > UEFI Firmware Settings. Click UEFI firmware settings, then click Restart to change the settings in the software. We will look at settings and check for disabled interfaces. If it seem good we are going to go to POST behavior > Fastboot and press auto. Appy settings and make sure to save as custome user settings. This is to back up the settings just in case something fails. After that Press exit and the Pc will restart.
 </p>
 <br />
 
