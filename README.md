@@ -8,7 +8,7 @@
  <br /> The purpose of this tutorial is to learn internal componets, how they fit together and how to handle hardware safely. Another purpose is to learn to maintain and extend the life of hardware while troubleshooting potential issues. Also learning how to correctly asemble a functional PC correctly. <br />
 
 
-<h2>Video Demonstration</h2>
+<h2>My Video Demonstration</h2>
 
 - ### [How To Dissassemble a Dell Opliplex 7040 ](https://www.youtube.com/watch?v=ivi8vUe8NVw&t=2s)
 -  ### [How To Clean a Dell Opliplex 7040 ](https://www.youtube.com/watch?v=KHPNB9mxLzM)
