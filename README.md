@@ -10,7 +10,7 @@
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [How To Dissassemble, Clean and Reassemble a Dell Opliplex 7040 ](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -112,7 +112,8 @@
 ![image](https://github.com/user-attachments/assets/55d98fae-ee6d-41d0-8c94-9560968423d0)
 
  (Image #4)
-
+ 
+![image](https://github.com/user-attachments/assets/e64859f9-5390-459d-81dd-126fc3244ba7)
 
  (Image #5)
 
