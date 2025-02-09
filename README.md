@@ -10,7 +10,10 @@
 
 <h2>Video Demonstration</h2>
 
-- ### [How To Dissassemble, Clean and Reassemble a Dell Opliplex 7040 ](https://www.youtube.com)
+- ### [How To Dissassemble a Dell Opliplex 7040 ]( )
+-  ### [How To Clean a Dell Opliplex 7040 ](https://www.youtube.com)
+- ### [How To Reassemble a Dell Opliplex 7040 ](https://www.youtube.com)
+
 
 <h2>Environments and Technologies Used</h2>
 
