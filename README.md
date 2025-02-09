@@ -10,9 +10,9 @@
 
 <h2>Video Demonstration</h2>
 
-- ### [How To Dissassemble a Dell Opliplex 7040 ]( )
--  ### [How To Clean a Dell Opliplex 7040 ](https://www.youtube.com)
-- ### [How To Reassemble a Dell Opliplex 7040 ](https://www.youtube.com)
+- ### [How To Dissassemble a Dell Opliplex 7040 ](https://www.youtube.com/watch?v=ivi8vUe8NVw&t=2s)
+-  ### [How To Clean a Dell Opliplex 7040 ](https://www.youtube.com/watch?v=KHPNB9mxLzM)
+- ### [How To Reassemble a Dell Opliplex 7040 ]()
 
 
 <h2>Environments and Technologies Used</h2>
@@ -21,11 +21,11 @@
 
 <h2> PC Used </h2>
 
-- Refurbuished Dell Oplieplex 7040
+- Refurbuished Dell Optieplex 7040
 
 <h2> Materials </h2>
 
-- Dell Opliplex 7040
+- Dell Optiplex 7040
 - Gloves
 - Phil's Screwdriver
 - Flat head Screwdriver
